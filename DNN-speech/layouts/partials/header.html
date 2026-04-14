@@ -4,12 +4,14 @@
 <a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
 <div class="flex-container">
     <div class="flex-item-left">
-        <img src="/images/ANN-HumLang-logo.svg">
+        <img src="/images/DNN-speech-logo.svg">
     </div>
     <div class="flex-item-center"></div>
     <div class="flex-item-right">
         <a href="{{ relURL .Site.Home.RelPermalink }}" class="title">
-            <h1>{{ .Site.Title }}</h1>
+            <div style="width:90%">
+                <h1>{{ .Site.Params.Title }}</h1>
+            </div>
         </a>
     </div>
 </div>

@@ -1,8 +1,8 @@
 # Basic config
-baseURL = 'https://ANN-HumLang.github.io/'
+baseURL = 'https://DNN-speech.github.io/'
 languageCode = 'en-us'
 theme = "hugo-bearcub"
-copyright = "Tamar Johnson & Marianne de Heer Kloots"
+copyright = "Marianne de Heer Kloots"
 defaultContentLanguage = "en"
 
 # Generate a nice robots.txt for SEO
@@ -24,7 +24,7 @@ enableRobotsTXT = true
 # see https://gohugo.io/content-management/multilingual/
 [languages]
   [languages.en]
-    title = 'Using Artificial Neural Networks for Studying Human Language Learning and Processing'
+    title = '(D)NN-Speech Reading Group'
     languageName = "en-US 🇺🇸"
     LanguageCode = "en-US"
     contentDir = "content"
@@ -33,13 +33,13 @@ enableRobotsTXT = true
 
 [menus]
 [[menus.main]]
-    name = 'Workshop'
-    pageRef = '/workshop'
+    name = 'Reading group'
+    pageRef = '/reading-group'
     weight = 10
-[[menus.main]]
-    name = 'Reading group archive'
-    pageRef = '/reading-group-archive'
-    weight = 20
+# [[menus.main]]
+#     name = 'Reading group archive'
+#     pageRef = '/reading-group-archive'
+#     weight = 20
 
 [[module.mounts]]
 source = 'static'
@@ -50,6 +50,8 @@ source = 'images'
 target = 'static/images'
 
 [params]
+  last_update = "2026-04-14"
+
   # The description of your website
   description = "Workshop organized at Institute for Logic, Language, and Computation, University of Amsterdam."
 
@@ -64,7 +66,7 @@ target = 'static/images'
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
-  title = "Using Artificial Neural Networks for Studying Human Language Learning and Processing"
+  title = "(Deep) Neural Networks for Speech Processing Reading Group"
   
   # Dates are displayed following the format below. For more information about
   # formatting, see https://gohugo.io/functions/format/
@@ -95,5 +97,5 @@ target = 'static/images'
   # Author metadata. This is mostly used for the RSS feed of your site, but the
   # email is also added to the footer of each post
   [params.author]
-    name = "Tamar Johnson & Marianne de Heer Kloots" # Your name as shown in the RSS feed metadata
-    email = "me@example.com" # Added to the footer so readers can reply to posts
+    name = "Marianne de Heer Kloots" # Your name as shown in the RSS feed metadata
+    email = "mariannedhk@gmail.com" # Added to the footer so readers can reply to posts

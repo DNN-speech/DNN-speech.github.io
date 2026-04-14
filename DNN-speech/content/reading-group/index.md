@@ -1,33 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>(D)NN-Speech Reading Group</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on (D)NN-Speech Reading Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>mariannedhk@gmail.com (Marianne de Heer Kloots)</managingEditor>
-    <webMaster>mariannedhk@gmail.com (Marianne de Heer Kloots)</webMaster>
-    <copyright>Marianne de Heer Kloots</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>(D)NN-speech reading group</title>
-      <link>http://localhost:1313/reading-group/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
-      <guid>http://localhost:1313/reading-group/</guid>
-      <description>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet every third Thursday of the month at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at LAB42 (University of Amsterdam), but many participants joining virtually.&#xA;Current and past regular attendees include researchers at University of Amsterdam (Marianne de Heer Kloots, Charlotte Pouw, Jelle Zuidema, Paul Boersma), Tilburg University (Gaofei Shen, Hosein Mohebbi, Grzegorz Chrupała, Tom Lentz), Radboud University (Martijn Bentum), and several others from various international research institutes (Oli Liu, Kwanghee Choi, Pierre Orhan).</description>
-      <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
-<p>Current and past regular attendees include researchers at University of Amsterdam (<a href="https://mdhk.net/">Marianne de Heer Kloots</a>, <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Charlotte Pouw</a>, <a href="https://staff.fnwi.uva.nl/w.zuidema/">Jelle Zuidema</a>, <a href="https://www.fon.hum.uva.nl/paul/">Paul Boersma</a>), Tilburg University (<a href="https://www.gaofeishen.com/">Gaofei Shen</a>, <a href="https://hmohebbi.github.io/">Hosein Mohebbi</a>, <a href="https://grzegorz.chrupala.me/">Grzegorz Chrupała</a>, <a href="https://www.tilburguniversity.edu/staff/t-o-lentz">Tom Lentz</a>), Radboud University (<a href="https://www.ru.nl/personen/bentum-m">Martijn Bentum</a>), and several others from various international research institutes (<a href="https://uililo.github.io/">Oli Liu</a>, <a href="https://kwangheechoi.notion.site/Kwanghee-Choi-9250bb79f1664e5b8e8c5553adf20068">Kwanghee Choi</a>, <a href="https://pierreorhan.github.io/">Pierre Orhan</a>).</p>
-<p>Anyone with an interest in the topic is very welcome to join our meetings; contact <a href="https://mdhk.net/">Marianne</a> if you&rsquo;d like to participate!</p>
-<h4 id="next-meeting">Next meeting</h4>
-<p>Our next meeting (Apr 16th, 2026, 3pm Amsterdam time) is a <strong>journal club discussion</strong> led by Martijn, on the new SpidR architecture for speech SSL training:</p>
-<blockquote>
-<p>Poli, M., Luthra, M., Benchekroun, Y., Higuchi, Y., Gleize, M., Shen, J., Algayres, R., Chung, Y., Assran, M., Pino, J., &amp; Dupoux, E. (2025). <a href="https://openreview.net/forum?id=E7XAFBpfZs">SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision</a>. Transactions on Machine Learning Research.</p>
-</blockquote>
-<p>See an archive of our past meetings below.</p>
-<h4 id="archive">Archive</h4>
+---
+title: "(D)NN-speech reading group"
+---
 
+We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
 
+Current and past regular attendees include researchers at University of Amsterdam ([Marianne de Heer Kloots](https://mdhk.net/), [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw), [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), [Paul Boersma](https://www.fon.hum.uva.nl/paul/)), Tilburg University ([Gaofei Shen](https://www.gaofeishen.com/), [Hosein Mohebbi](https://hmohebbi.github.io/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/), [Tom Lentz](https://www.tilburguniversity.edu/staff/t-o-lentz)), Radboud University ([Martijn Bentum](https://www.ru.nl/personen/bentum-m)), and several others from various international research institutes ([Oli Liu](https://uililo.github.io/), [Kwanghee Choi](https://kwangheechoi.notion.site/Kwanghee-Choi-9250bb79f1664e5b8e8c5553adf20068), [Pierre Orhan](https://pierreorhan.github.io/)).
+
+Anyone with an interest in the topic is very welcome to join our meetings; contact [Marianne](https://mdhk.net/) if you'd like to participate!
+
+#### Next meeting
+Our next meeting (Apr 16th, 2026, 3pm Amsterdam time) is a **journal club discussion** led by Martijn, on the new SpidR architecture for speech SSL training:
+> Poli, M., Luthra, M., Benchekroun, Y., Higuchi, Y., Gleize, M., Shen, J., Algayres, R., Chung, Y., Assran, M., Pino, J., & Dupoux, E. (2025). [SpidR: Learning Fast and Stable Linguistic Units for Spoken Language Models Without Supervision](https://openreview.net/forum?id=E7XAFBpfZs). Transactions on Machine Learning Research.
+
+See an archive of our past meetings below.
+
+#### Archive
+
+{{< rawhtml >}}
 <script src="https://kit.fontawesome.com/2502d9ad4b.js" crossorigin="anonymous"></script>
 <div class="wrapper">
 <table border="0">
@@ -284,67 +273,4 @@
   </tr>
 </table>
 </div>
-
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Reading group archive</title>
-      <link>http://localhost:1313/reading-group-archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
-      <guid>http://localhost:1313/reading-group-archive/</guid>
-      <description>In the 2023 Spring Semester we organized a reading group at the ILLC, bringing together formal semanticists and computational linguists working at our institute to discuss the use of Artificial Neural Networks in modelling human language learning and processing. Below is an archive of the papers we read.&#xA;Feel free to keep suggesting papers in our sheet!&#xA;April 3rd, 2023 Li, J., Yu, L., &amp;amp; Ettinger, A. (2022). Counterfactual reasoning: Do language models need world knowledge for causal inference?</description>
-      <content:encoded><![CDATA[<p>In the 2023 Spring Semester we organized a reading group at the ILLC, bringing together formal semanticists and computational linguists working at our institute to discuss the use of Artificial Neural Networks in modelling human language learning and processing. Below is an archive of the papers we read.</p>
-<p>Feel free to keep suggesting papers in our <a href="https://docs.google.com/spreadsheets/d/1h_HJATlutSkfDKYTtoR3zvnCFhUsmhfi1VF-QfodK7w/edit?usp=sharing">sheet</a>!</p>
-<h4 id="april-3rd-2023">April 3rd, 2023</h4>
-<p>Li, J., Yu, L., &amp; Ettinger, A. (2022). Counterfactual reasoning: Do language models need world knowledge for causal inference? In <em>NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI)</em>. <a href="https://arxiv.org/pdf/2212.03278.pdf">https://arxiv.org/pdf/2212.03278.pdf</a></p>
-<p><em>presented by:</em> Tom<br>
-<em>time:</em> 11-12am CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="march-27th-2023">March 27th, 2023</h4>
-<p>Piantadosi, S. (2023). Modern language models refute Chomsky&rsquo;s approach to language. <em>LingBuzz</em>. <a href="https://lingbuzz.net/lingbuzz/007180">https://lingbuzz.net/lingbuzz/007180</a></p>
-<p><em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, <strong>L6.27</strong></p>
-<h4 id="march-20th-2023">March 20th, 2023</h4>
-<p>Manning, C. D., Clark, K., Hewitt, J., Khandelwal, U., &amp; Levy, O. (2020). Emergent linguistic structure in artificial neural networks trained by self-supervision. <em>Proceedings of the National Academy of Sciences, 117</em>(48), 30046-30054. <a href="https://doi.org/10.1073/pnas.1907367117">https://doi.org/10.1073/pnas.1907367117</a></p>
-<p><em>presented by:</em> Samuel<br>
-<em>time:</em> 2-3pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="march-13th-2023">March 13th, 2023</h4>
-<p>Merrill, W., Warstadt, A., &amp; Linzen, T. (2022). Entailment Semantics Can Be Extracted from an Ideal Language Model. In <em>Proceedings of the 26th Conference on Computational Natural Language Learning (CoNLL)</em>, pages 176–193, Abu Dhabi, United Arab Emirates (Hybrid). Association for Computational Linguistics. <a href="https://aclanthology.org/2022.conll-1.13/">https://aclanthology.org/2022.conll-1.13/</a></p>
-<p><em>presented by:</em> Taka<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="march-6th-2023">March 6th, 2023</h4>
-<p>McClelland, J. L., Hill, F., Rudolph, M., Baldridge, J., &amp; Schütze, H. (2020). Placing language in an integrated understanding system: Next steps toward human-level performance in neural language models. <em>Proceedings of the National Academy of Sciences, 117</em>(42), 25966-25974. <a href="https://doi.org/10.1073/pnas.1910416117">https://doi.org/10.1073/pnas.1910416117</a></p>
-<p><em>presented by:</em> Marianne<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="february-27th-2023">February 27th, 2023</h4>
-<p>Jain, S., Vo, V. A., Wehbe, L., &amp; Huth, A. G. (2023). Computational language modeling and the promise of in silico experimentation. <em>Neurobiology of Language</em>, 1-65. <a href="https://doi.org/10.1162/nol_a_00101">https://doi.org/10.1162/nol_a_00101</a></p>
-<p><em>presented by:</em> Tamar<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="february-21st-2023">February 21st, 2023</h4>
-<p>Andrew K Lampinen, Ishita Dasgupta, Stephanie CY Chan, Kory Matthewson, Michael Henry Tessler, Antonia Creswell, James L McClelland, Jane X Wang, and Felix Hill. Can language models learn from explanations in context? arXiv preprint arXiv:2204.02329, 2022. <a href="https://arxiv.org/abs/2204.02329">https://arxiv.org/abs/2204.02329</a></p>
-<p><em>presented by:</em> Taka<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, <strong>L3.06</strong></p>
-<h4 id="february-13th-2023">February 13th, 2023</h4>
-<p>Lakretz, Y., Desbordes, T., Hupkes, D., &amp; Dehaene, S. (2022, October). Can Transformers Process Recursive Nested Constructions, Like Humans?. In <em>Proceedings of the 29th International Conference on Computational Linguistics</em> (pp. 3226-3232). <a href="https://aclanthology.org/2022.coling-1.285/">https://aclanthology.org/2022.coling-1.285/</a></p>
-<p><em>presented by:</em> Tom<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="february-6th-2023">February 6th, 2023</h4>
-<p>Mahowald, K., Ivanova, A. A., Blank, I. A., Kanwisher, N., Tenenbaum, J. B., &amp; Fedorenko, E. (2023). Dissociating language and thought in large language models: a cognitive perspective. arXiv preprint arXiv:2301.06627. <a href="https://arxiv.org/abs/2301.06627">https://arxiv.org/abs/2301.06627</a></p>
-<p><em>presented by:</em> Marianne<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-<h4 id="january-30th-2023">January 30th, 2023</h4>
-<p>Warstadt, A., &amp; Bowman, S. R. (2022). What artificial neural networks can tell us about human language acquisition. In <em>Algebraic Structures in Natural Language</em> (pp. 17-60). CRC Press. <a href="https://arxiv.org/abs/2208.07998">https://arxiv.org/abs/2208.07998</a></p>
-<p><em>presented by:</em> Tamar<br>
-<em>time:</em> 4-5pm CET<br>
-<em>location:</em> LAB42, L6.51</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+{{< /rawhtml >}}

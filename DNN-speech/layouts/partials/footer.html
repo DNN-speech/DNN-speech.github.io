@@ -1,8 +1,8 @@
 <small>
-    {{ .Site.Copyright }} :: <b>ANN-HumLang</b> {{ range
+    {{ .Site.Copyright }} :: <b>(D)NN-Speech</b> {{ range
     .Site.Menus.main.ByWeight }}
-    <a href="{{ .URL }}">{{ .Name }}</a> /
+    / <a href="{{ .URL }}">{{ .Name }}</a>
     {{ end }}
 
-    <!-- Last update: {{ .Site.Lastmod | time.Format ":date_long" }} -->
+    :: Last modified {{ .Site.Params.last_update | time.Format ":date_long" }}.
 </small>
