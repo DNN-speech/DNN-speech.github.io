@@ -99,3 +99,7 @@ target = 'static/images'
   [params.author]
     name = "Marianne de Heer Kloots" # Your name as shown in the RSS feed metadata
     email = "mariannedhk@gmail.com" # Added to the footer so readers can reply to posts
+
+  [caches]
+  [caches.images]
+    dir = ':cacheDir/images'
