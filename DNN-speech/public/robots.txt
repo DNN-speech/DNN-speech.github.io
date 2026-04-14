@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ANN-HumLang.github.io/sitemap.xml

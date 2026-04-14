@@ -1,0 +1,17 @@
+<script defer language="javascript" type="text/javascript" src="{{ .Site.BaseURL }}js/jquery.min.js"></script>
+<script defer language="javascript" type="text/javascript" src="{{ .Site.BaseURL }}js/table.js"></script>
+
+<a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
+<div class="flex-container">
+    <div class="flex-item-left">
+        <img src="/images/ANN-HumLang-logo.svg">
+    </div>
+    <div class="flex-item-center"></div>
+    <div class="flex-item-right">
+        <a href="{{ relURL .Site.Home.RelPermalink }}" class="title">
+            <h1>{{ .Site.Title }}</h1>
+        </a>
+    </div>
+</div>
+
+<!-- <nav>{{- partial "nav.html" . -}}</nav> -->
