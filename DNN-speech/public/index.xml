@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>(D)NN-Speech Reading Group</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on (D)NN-Speech Reading Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>mariannedhk@gmail.com (Marianne de Heer Kloots)</managingEditor>
     <webMaster>mariannedhk@gmail.com (Marianne de Heer Kloots)</webMaster>
     <copyright>Marianne de Heer Kloots</copyright>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(D)NN-speech reading group</title>
-      <link>//localhost:1313/reading-group/</link>
+      <link>http://localhost:1313/reading-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
-      <guid>//localhost:1313/reading-group/</guid>
+      <guid>http://localhost:1313/reading-group/</guid>
       <description>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet every third Thursday of the month at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at LAB42 (University of Amsterdam), but many participants joining virtually.&#xA;Current and past regular attendees include researchers at University of Amsterdam (Marianne de Heer Kloots, Charlotte Pouw, Jelle Zuidema, Paul Boersma), Tilburg University (Gaofei Shen, Hosein Mohebbi, Grzegorz Chrupała, Tom Lentz), Radboud University (Martijn Bentum), and several others from various international research institutes (Oli Liu, Kwanghee Choi, Pierre Orhan).</description>
       <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
 <p>Current and past regular attendees include researchers at University of Amsterdam (<a href="https://mdhk.net/">Marianne de Heer Kloots</a>, <a href="https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw">Charlotte Pouw</a>, <a href="https://staff.fnwi.uva.nl/w.zuidema/">Jelle Zuidema</a>, <a href="https://www.fon.hum.uva.nl/paul/">Paul Boersma</a>), Tilburg University (<a href="https://www.gaofeishen.com/">Gaofei Shen</a>, <a href="https://hmohebbi.github.io/">Hosein Mohebbi</a>, <a href="https://grzegorz.chrupala.me/">Grzegorz Chrupała</a>, <a href="https://www.tilburguniversity.edu/staff/t-o-lentz">Tom Lentz</a>), Radboud University (<a href="https://www.ru.nl/personen/bentum-m">Martijn Bentum</a>), and several others from various international research institutes (<a href="https://uililo.github.io/">Oli Liu</a>, <a href="https://kwangheechoi.notion.site/Kwanghee-Choi-9250bb79f1664e5b8e8c5553adf20068">Kwanghee Choi</a>, <a href="https://pierreorhan.github.io/">Pierre Orhan</a>).</p>
