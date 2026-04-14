@@ -1,5 +1,5 @@
 # Basic config
-baseURL = 'https://DNN-speech.github.io/'
+baseURL = ''
 languageCode = 'en-us'
 theme = "hugo-bearcub"
 copyright = "Marianne de Heer Kloots"
