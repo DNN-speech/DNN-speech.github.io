@@ -50,7 +50,7 @@ source = 'images'
 target = 'static/images'
 
 [params]
-  last_update = "2026-04-14"
+  last_update = "2026-04-21"
 
   # The description of your website
   description = "Workshop organized at Institute for Logic, Language, and Computation, University of Amsterdam."
