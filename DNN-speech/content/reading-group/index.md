@@ -4,15 +4,13 @@ title: "(D)NN-speech reading group"
 
 We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
 
-Current and past regular attendees include researchers at University of Amsterdam ([Marianne de Heer Kloots](https://mdhk.net/), [Charlotte Pouw](https://www.illc.uva.nl/People/Table/person/5440/Charlotte-Pouw), [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/), [Paul Boersma](https://www.fon.hum.uva.nl/paul/)), Tilburg University ([Gaofei Shen](https://www.gaofeishen.com/), [Hosein Mohebbi](https://hmohebbi.github.io/), [Grzegorz Chrupała](https://grzegorz.chrupala.me/), [Tom Lentz](https://www.tilburguniversity.edu/staff/t-o-lentz)), Radboud University ([Martijn Bentum](https://www.ru.nl/personen/bentum-m)), and several others from various research institutes outside The Netherlands.
-
 Anyone with an interest in the topic is very welcome to join our meetings; contact [Marianne](https://mdhk.net/) if you'd like to participate!
 
-#### Next meeting
-Our next meeting (May 21st, 2026, 3pm Amsterdam time) is an **invited talk** by [Stephen McIntosh](https://www.linkedin.com/in/stephen-mcintosh-4566a6136/) on disentangled tokenization for speech language modelling:
-> Huang, Z., McIntosh, S., Saito, D., & Minematsu, N. (2026). [Kanade: A Simple Disentangled Tokenizer for Spoken Language Modeling](https://arxiv.org/abs/2602.00594). arXiv preprint.
+#### Next meeting(s)
+In our next meeting (**June 18th, 3pm** Amsterdam time) we'll discuss bias in multimodal speech recognition models with [Maya Nachesa](https://www.linkedin.com/in/mknachesa/)!
+> Nachesa, M.K., Niculae, V., & Gautam, V. (2026). [Your Multimodal Speech Model Says I Have a Face for Radio](https://arxiv.org/abs/2605.30472). arXiv preprint.
 
-Further upcoming meetings are scheduled on June 16th ([Maya Nachesa](https://scholar.google.com/citations?user=R6UViVIAAAAJ&hl=en)) and September 17th ([Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/)).
+A further upcoming meeting is scheduled on September 17th ([Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/)).
 
 See an archive of our past meetings below.
 
@@ -24,6 +22,13 @@ See an archive of our past meetings below.
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>May 21st</b><br>Invited talk <a href="https://DNN-speech.github.io/files/DNNspeech_260521_StephenMcIntosh_Kanade.pdf"><i class="fa-solid fa-file"></i></a></td>
+    <td>
+    <a href="https://www.linkedin.com/in/stephen-mcintosh-4566a6136/">Stephen McIntosh</a> (UTokyo) <br>
+    <i>Kanade: A Simple Disentangled Tokenizer for Spoken Language Modeling</i> [<a href="https://arxiv.org/abs/2602.00594">arXiv preprint</a>]
+    </td>
   </tr>
   <tr>
     <td><b>Apr 16th</b><br>Journal club</td>
