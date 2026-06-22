@@ -2,28 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>(D)NN-Speech Reading Group</title>
-    <link>http://localhost:1313/</link>
+    <link>https://DNN-speech.github.io/</link>
     <description>Recent content on (D)NN-Speech Reading Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <managingEditor>mariannedhk@gmail.com (Marianne de Heer Kloots)</managingEditor>
     <webMaster>mariannedhk@gmail.com (Marianne de Heer Kloots)</webMaster>
     <copyright>Marianne de Heer Kloots</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://DNN-speech.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>(D)NN-speech reading group</title>
-      <link>http://localhost:1313/reading-group/</link>
+      <link>https://DNN-speech.github.io/reading-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
-      <guid>http://localhost:1313/reading-group/</guid>
+      <guid>https://DNN-speech.github.io/reading-group/</guid>
       <description>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet every third Thursday of the month at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at LAB42 (University of Amsterdam), but many participants joining virtually.&#xA;Anyone with an interest in the topic is very welcome to join our meetings; contact Marianne if you&amp;rsquo;d like to participate!</description>
       <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
 <p>Anyone with an interest in the topic is very welcome to join our meetings; contact <a href="https://mdhk.net/">Marianne</a> if you&rsquo;d like to participate!</p>
 <h4 id="next-meetings">Next meeting(s)</h4>
-<p>In our next meeting (<strong>June 18th, 3pm</strong> Amsterdam time) we&rsquo;ll discuss bias in multimodal speech recognition models with <a href="https://www.linkedin.com/in/mknachesa/">Maya Nachesa</a>!</p>
+<p>We are on summer break! Our next meeting (<strong>September 17th, 3pm</strong> Amsterdam time) is an invited talk by <a href="http://www.tuckute.com/">Greta Tuckute</a> &amp; <a href="https://klemenkotar.github.io/">Klemen Kotar</a> on their AuriStream model:</p>
 <blockquote>
-<p>Nachesa, M.K., Niculae, V., &amp; Gautam, V. (2026). <a href="https://arxiv.org/abs/2605.30472">Your Multimodal Speech Model Says I Have a Face for Radio</a>. arXiv preprint.</p>
+<p>Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). <a href="https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html">Representing Speech Through Autoregressive Prediction of Cochlear Tokens</a>. <em>Proc. Interspeech</em>, 2180-2184.</p>
 </blockquote>
-<p>A further upcoming meeting is scheduled on September 17th (<a href="http://www.tuckute.com/">Greta Tuckute</a> &amp; <a href="https://klemenkotar.github.io/">Klemen Kotar</a>).</p>
 <p>See an archive of our past meetings below.</p>
 <h4 id="archive">Archive</h4>
 
@@ -33,6 +32,13 @@
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>June 18th</b><br>Invited talk</td>
+    <td>
+    <a href="https://www.linkedin.com/in/mknachesa/">Maya Nachesa</a> (University of Amsterdam) <br>
+    <i>Your Multimodal Speech Model Says I Have a Face for Radio</i><br> [<a href="https://arxiv.org/abs/2605.30472">arXiv preprint</a>]
+    </td>
   </tr>
   <tr>
     <td><b>May 21st</b><br>Invited talk <a href="https://DNN-speech.github.io/files/DNNspeech_260521_StephenMcIntosh_Kanade.pdf"><i class="fa-solid fa-file"></i></a></td>

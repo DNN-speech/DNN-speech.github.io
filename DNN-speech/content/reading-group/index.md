@@ -7,10 +7,8 @@ We are a reading group meeting regularly to discuss papers on speech-based deep 
 Anyone with an interest in the topic is very welcome to join our meetings; contact [Marianne](https://mdhk.net/) if you'd like to participate!
 
 #### Next meeting(s)
-In our next meeting (**June 18th, 3pm** Amsterdam time) we'll discuss bias in multimodal speech recognition models with [Maya Nachesa](https://www.linkedin.com/in/mknachesa/)!
-> Nachesa, M.K., Niculae, V., & Gautam, V. (2026). [Your Multimodal Speech Model Says I Have a Face for Radio](https://arxiv.org/abs/2605.30472). arXiv preprint.
-
-A further upcoming meeting is scheduled on September 17th ([Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/)).
+We are on summer break! Our next meeting (**September 17th, 3pm** Amsterdam time) is an invited talk by [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) on their AuriStream model:
+> Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). [Representing Speech Through Autoregressive Prediction of Cochlear Tokens](https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html). _Proc. Interspeech_, 2180-2184.
 
 See an archive of our past meetings below.
 
@@ -22,6 +20,13 @@ See an archive of our past meetings below.
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>June 18th</b><br>Invited talk</td>
+    <td>
+    <a href="https://www.linkedin.com/in/mknachesa/">Maya Nachesa</a> (University of Amsterdam) <br>
+    <i>Your Multimodal Speech Model Says I Have a Face for Radio</i><br> [<a href="https://arxiv.org/abs/2605.30472">arXiv preprint</a>]
+    </td>
   </tr>
   <tr>
     <td><b>May 21st</b><br>Invited talk <a href="https://DNN-speech.github.io/files/DNNspeech_260521_StephenMcIntosh_Kanade.pdf"><i class="fa-solid fa-file"></i></a></td>
