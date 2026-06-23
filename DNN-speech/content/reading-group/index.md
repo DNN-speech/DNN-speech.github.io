@@ -7,8 +7,10 @@ We are a reading group meeting regularly to discuss papers on speech-based deep 
 Anyone with an interest in the topic is very welcome to join our meetings; contact [Marianne](https://mdhk.net/) if you'd like to participate!
 
 #### Next meeting(s)
-We are on summer break! Our next meeting (**September 17th, 3pm** Amsterdam time) is an invited talk by [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) on their AuriStream model:
+We are on summer break! Our next meeting, on **September 17th**, is an invited talk by [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) on their AuriStream model:
 > Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). [Representing Speech Through Autoregressive Prediction of Cochlear Tokens](https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html). _Proc. Interspeech_, 2180-2184.
+
+A further meeting is scheduled for **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting on [compensation for tonal context](https://arxiv.org/abs/2606.17835).
 
 See an archive of our past meetings below.
 

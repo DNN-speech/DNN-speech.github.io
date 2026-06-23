@@ -19,10 +19,11 @@
       <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
 <p>Anyone with an interest in the topic is very welcome to join our meetings; contact <a href="https://mdhk.net/">Marianne</a> if you&rsquo;d like to participate!</p>
 <h4 id="next-meetings">Next meeting(s)</h4>
-<p>We are on summer break! Our next meeting (<strong>September 17th, 3pm</strong> Amsterdam time) is an invited talk by <a href="http://www.tuckute.com/">Greta Tuckute</a> &amp; <a href="https://klemenkotar.github.io/">Klemen Kotar</a> on their AuriStream model:</p>
+<p>We are on summer break! Our next meeting, on <strong>September 17th</strong>, is an invited talk by <a href="http://www.tuckute.com/">Greta Tuckute</a> &amp; <a href="https://klemenkotar.github.io/">Klemen Kotar</a> on their AuriStream model:</p>
 <blockquote>
 <p>Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). <a href="https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html">Representing Speech Through Autoregressive Prediction of Cochlear Tokens</a>. <em>Proc. Interspeech</em>, 2180-2184.</p>
 </blockquote>
+<p>A further meeting is scheduled for <strong>October 15th</strong>, with <a href="https://github.com/uasolo">Michele Gubian</a> presenting on <a href="https://arxiv.org/abs/2606.17835">compensation for tonal context</a>.</p>
 <p>See an archive of our past meetings below.</p>
 <h4 id="archive">Archive</h4>
 
