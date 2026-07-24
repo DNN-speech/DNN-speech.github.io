@@ -7,10 +7,9 @@ We are a reading group meeting regularly to discuss papers on speech-based deep 
 Anyone with an interest in the topic is very welcome to join our meetings; contact [Marianne](https://mdhk.net/) if you'd like to participate!
 
 #### Next meeting(s)
-We are on summer break! Our next meeting, on **September 17th**, is an invited talk by [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) on their AuriStream model:
-> Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). [Representing Speech Through Autoregressive Prediction of Cochlear Tokens](https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html). _Proc. Interspeech_, 2180-2184.
+We'll have a special summer session on **August 13th**! [Mohammad Javad Ranjbar](https://mohammadjranjbar.github.io/) from the [EPFL NLP lab](https://nlp.epfl.ch/) is visiting us to talk about _Audio and Text Understanding for Low-Resource Languages_.
 
-A further meeting is scheduled for **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting on [compensation for tonal context](https://arxiv.org/abs/2606.17835).
+After that, our next meetings are planned on **September 17th** (with [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) presenting on their [AuriStream model](https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html)) and on  **October 15th** (with [Michele Gubian](https://github.com/uasolo) presenting on [compensation for tonal context](https://arxiv.org/abs/2606.17835)).
 
 See an archive of our past meetings below.
 
