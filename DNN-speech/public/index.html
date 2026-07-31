@@ -52,8 +52,47 @@
   
 
   <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/index.xml" title="(D)NN-Speech Reading Group" />
-  
-</head>
+  <style>
+    .inline-details-toggle {
+        display: none;
+    }
+
+    .inline-details-summary {
+        cursor: pointer;
+        display: inline-block;
+        background: #f0f0f0;
+        border-radius: 0px;
+        text-decoration: none;
+        font-size: 1em;
+    }
+
+    .inline-details-summary:hover {
+        background: #e5e5e5;
+    }
+
+    .inline-details-content {
+        display: none;
+        border: 1px solid #000;
+        padding: 0.75em 0.75em;
+        margin-top: 0.25em;
+    }
+
+    .inline-details-toggle:checked~.inline-details-content {
+        display: inline-block;
+    }
+
+    .inline-details-summary {
+        cursor: pointer;
+    }
+
+    .inline-details-summary::before {
+        content: "▸ ";
+    }
+
+    .inline-details-toggle:checked~.inline-details-summary::before {
+        content: "▾ ";
+    }
+</style></head>
 
 <body>
   <header><script defer language="javascript" type="text/javascript" src="http://localhost:1313/js/jquery.min.js"></script>
@@ -80,7 +119,12 @@
 <p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
 <p>Anyone with an interest in the topic is very welcome to join our meetings; contact <a href="https://mdhk.net/">Marianne</a> if you&rsquo;d like to participate!</p>
 <h4 id="next-meetings">Next meeting(s)</h4>
-<p>We&rsquo;ll have a special summer session on <strong>August 13th</strong>! <a href="https://mohammadjranjbar.github.io/">Mohammad Javad Ranjbar</a> from the <a href="https://nlp.epfl.ch/">EPFL NLP lab</a> is visiting us to talk about <em>Audio and Text Understanding for Low-Resource Languages</em>.</p>
+<p>We&rsquo;ll have a special summer session on <strong>August 13th</strong>! <a href="https://mohammadjranjbar.github.io/">Mohammad Javad Ranjbar</a> from the <a href="https://nlp.epfl.ch/">EPFL NLP lab</a> is visiting us to talk about <em>Audio and Text Understanding for Low-Resource Languages</em>. <span class="inline-details"><input type="checkbox" id="inline-details-0" class="inline-details-toggle"><label for="inline-details-0"
+        class="inline-details-summary">See abstract</label><span class="inline-details-content"><b>Audio and Text Understanding for Low-Resource Languages</b><br>
+Mohammad Javad Ranjbar, EPFL NLP lab<br><br>
+Modern language and speech models still struggle with low resource languages such as Persian, where progress is limited not only by data scarcity but also by language specific, cultural, and multimodal challenges. This talk follows my work on building the resources and evaluations needed to understand and reduce these gaps. <br><br>
+The starting point is a large scale Persian speech corpus built from long form audiobook recordings, where making the source usable for TTS meant handling noisy segmentation, imperfect ASR, missing punctuation, speaker variation, and audio text quality filtering. Those resources then made evaluation possible, and on our Persian audio benchmark current audio language models show large gaps between text only and audio based performance, especially on culturally grounded tasks such as poetry meter, which unvowelled Persian script cannot convey at all. That gap is what my current work at EPFL is aimed at, pretraining audio understanding into an open multilingual model using mixtures of real and synthetic speech, which brings the data scarcity problem back at training scale.</span></span>
+</p>
 <p>After that, our next meetings are planned on <strong>September 17th</strong> (with <a href="http://www.tuckute.com/">Greta Tuckute</a> &amp; <a href="https://klemenkotar.github.io/">Klemen Kotar</a> presenting on their <a href="https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html">AuriStream model</a>) and on  <strong>October 15th</strong> (with <a href="https://github.com/uasolo">Michele Gubian</a> presenting on <a href="https://arxiv.org/abs/2606.17835">compensation for tonal context</a>).</p>
 <p>See an archive of our past meetings below.</p>
 <h4 id="archive">Archive</h4>
