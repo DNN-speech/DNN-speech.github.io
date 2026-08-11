@@ -4,7 +4,7 @@ title: "(D)NN-speech reading group"
 
 We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
 
-Anyone with an interest in the topic is very welcome to join our meetings! Contact [Marianne](https://mdhk.net/) or [request to join our mailing list](https://groups.google.com/g/dnn-speech) if you'd like to participate (please include a message describing who you are if it might not be obvious from your e-mail address).
+Anyone with an interest in the topic is very welcome to join our meetings! Contact [Marianne](https://mdhk.net/) or [request to join our mailing list](https://groups.google.com/g/dnn-speech) if you'd like to participate (please include a message describing who you are, if it might not be obvious from your e-mail address).
 
 #### Next meeting(s)
 We'll have a special summer session on **August 13th**! [Mohammad Javad Ranjbar](https://mohammadjranjbar.github.io/) from the [EPFL NLP lab](https://nlp.epfl.ch/) is visiting us to talk about _Audio and Text Understanding for Low-Resource Languages_. {{< details "See abstract">}}<b>Audio and Text Understanding for Low-Resource Languages</b><br>
