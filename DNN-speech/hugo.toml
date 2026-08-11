@@ -50,10 +50,10 @@ source = 'images'
 target = 'static/images'
 
 [params]
-  last_update = "2026-06-23"
+  last_update = "2026-08-11"
 
   # The description of your website
-  description = "Workshop organized at Institute for Logic, Language, and Computation, University of Amsterdam."
+  description = "We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition!"
 
   # The path to your favicon
   favicon = "images/favicon.png"
@@ -62,7 +62,7 @@ target = 'static/images'
   # to your site. Ignored if `generateSocialCard = true`. For more information
   # about previews, see https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph
-  images = ["images/share.webp"]
+  images = ["images/DNN-speech-logo.svg"]
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
@@ -107,3 +107,12 @@ target = 'static/images'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-E2K0GJTW1F'
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
