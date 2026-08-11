@@ -56,13 +56,13 @@ target = 'static/images'
   description = "We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition!"
 
   # The path to your favicon
-  favicon = "images/favicon.png"
+  favicon = "images/favicon.ico"
 
   # These images will show up when services want to generate a preview of a link
   # to your site. Ignored if `generateSocialCard = true`. For more information
   # about previews, see https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph
-  images = ["images/DNN-speech-logo.svg"]
+  images = ["images/social_card.webp"]
 
   # This title is used as the site_name on the Hugo's internal opengraph
   # structured data template
