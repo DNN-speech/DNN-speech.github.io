@@ -7,12 +7,13 @@ We are a reading group meeting regularly to discuss papers on speech-based deep 
 Anyone with an interest in the topic is very welcome to join our meetings! Contact [Marianne](https://mdhk.net/) or [request to join our mailing list](https://groups.google.com/g/dnn-speech) if you'd like to participate (please include a message describing who you are, if it might not be obvious from your e-mail address).
 
 #### Next meeting(s)
-We'll have a special summer session on **August 13th**! [Mohammad Javad Ranjbar](https://mohammadjranjbar.github.io/) from the [EPFL NLP lab](https://nlp.epfl.ch/) is visiting us to talk about _Audio and Text Understanding for Low-Resource Languages_. {{< details "See abstract">}}<b>Audio and Text Understanding for Low-Resource Languages</b><br>
-Mohammad Javad Ranjbar, EPFL NLP lab<br><br>
-Modern language and speech models still struggle with low resource languages such as Persian, where progress is limited not only by data scarcity but also by language specific, cultural, and multimodal challenges. This talk follows my work on building the resources and evaluations needed to understand and reduce these gaps. <br><br>
-The starting point is a large scale Persian speech corpus built from long form audiobook recordings, where making the source usable for TTS meant handling noisy segmentation, imperfect ASR, missing punctuation, speaker variation, and audio text quality filtering. Those resources then made evaluation possible, and on our Persian audio benchmark current audio language models show large gaps between text only and audio based performance, especially on culturally grounded tasks such as poetry meter, which unvowelled Persian script cannot convey at all. That gap is what my current work at EPFL is aimed at, pretraining audio understanding into an open multilingual model using mixtures of real and synthetic speech, which brings the data scarcity problem back at training scale. {{< /details >}}
+Our first session of the new academic year takes place on **September 17th**! [Greta Tuckute](http://www.tuckute.com/) and [Klemen Kotar](https://klemenkotar.github.io/) will present recent work with their _AuriStream_ model. Relevant readings:
 
-After that, our next meetings are planned on **September 17th** (with [Greta Tuckute](http://www.tuckute.com/) & [Klemen Kotar](https://klemenkotar.github.io/) presenting on their [AuriStream model](https://www.isca-archive.org/interspeech_2025/tuckute25_interspeech.html)) and on  **October 15th** (with [Michele Gubian](https://github.com/uasolo) presenting on [compensation for tonal context](https://arxiv.org/abs/2606.17835)).
+> <span style="font-size:12pt">Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). [Representing Speech Through Autoregressive Prediction of Cochlear Tokens](http://doi.org/10.21437/Interspeech.2025-2044). _Proc. Interspeech_.</span>
+
+> <span style="font-size:12pt">Tuckute, G., Kotar, K., Yamins, D. L., & Konkle, T. (2026). [Learning Language by Listening: A Computational Learnability Account](https://openreview.net/forum?id=Z4VJEMX8pS). _9th Annual Conference on Cognitive Computational Neuroscience_.</span>
+
+The next meeting after that is planned on **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting about [compensation for tonal context](https://arxiv.org/abs/2606.17835).
 
 See an archive of our past meetings below.
 
@@ -24,6 +25,16 @@ See an archive of our past meetings below.
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>August 13th</b><br>Invited talk</td>
+    <td>
+    <a href="https://mohammadjranjbar.github.io/">Mohammad Javad Ranjbar</a> (EPFL NLP lab) <br>
+    <i>Audio and Text Understanding for Low-Resource Languages</i><br> {{< details "See abstract">}}<b>Audio and Text Understanding for Low-Resource Languages</b><br>
+Mohammad Javad Ranjbar, EPFL NLP lab<br><br>
+Modern language and speech models still struggle with low resource languages such as Persian, where progress is limited not only by data scarcity but also by language specific, cultural, and multimodal challenges. This talk follows my work on building the resources and evaluations needed to understand and reduce these gaps. <br><br>
+The starting point is a large scale Persian speech corpus built from long form audiobook recordings, where making the source usable for TTS meant handling noisy segmentation, imperfect ASR, missing punctuation, speaker variation, and audio text quality filtering. Those resources then made evaluation possible, and on our Persian audio benchmark current audio language models show large gaps between text only and audio based performance, especially on culturally grounded tasks such as poetry meter, which unvowelled Persian script cannot convey at all. That gap is what my current work at EPFL is aimed at, pretraining audio understanding into an open multilingual model using mixtures of real and synthetic speech, which brings the data scarcity problem back at training scale. {{< /details >}}
+    </td>
   </tr>
   <tr>
     <td><b>June 18th</b><br>Invited talk</td>
