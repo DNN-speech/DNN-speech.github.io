@@ -27,7 +27,7 @@ See an archive of our past meetings below.
       <th colspan="2"><span>▾</span> 2026</th>
   </tr>
   <tr>
-    <td><b>August 13th</b><br>Invited talk</td>
+    <td><b>Aug 13th</b><br>Invited talk</td>
     <td>
     <a href="https://mohammadjranjbar.github.io/">Mohammad Javad Ranjbar</a> (EPFL NLP lab) <br>
     <i>Audio and Text Understanding for Low-Resource Languages</i><br> {{< details "See abstract">}}<b>Audio and Text Understanding for Low-Resource Languages</b><br>
