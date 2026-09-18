@@ -2,18 +2,13 @@
 title: "(D)NN-speech reading group"
 ---
 
-We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions and occasional invited talks. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
+We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
 
 Anyone with an interest in the topic is very welcome to join our meetings! Contact [Marianne](https://mdhk.net/) or [request to join our mailing list](https://groups.google.com/g/dnn-speech) if you'd like to participate (please include a message describing who you are, if it might not be obvious from your e-mail address).
 
 #### Next meeting(s)
-Our first session of the new academic year takes place on **September 17th**! [Greta Tuckute](http://www.tuckute.com/) and [Klemen Kotar](https://klemenkotar.github.io/) will present recent work with their _AuriStream_ model. Relevant readings:
-
-> <span style="font-size:12pt">Tuckute, G., Kotar, K., Fedorenko, E., Yamins, D. (2025). [Representing Speech Through Autoregressive Prediction of Cochlear Tokens](http://doi.org/10.21437/Interspeech.2025-2044). _Proc. Interspeech_.</span>
-
-> <span style="font-size:12pt">Tuckute, G., Kotar, K., Yamins, D. L., & Konkle, T. (2026). [Learning Language by Listening: A Computational Learnability Account](https://openreview.net/forum?id=Z4VJEMX8pS). _9th Annual Conference on Cognitive Computational Neuroscience_.</span>
-
-The next meeting after that is planned on **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting about [compensation for tonal context](https://arxiv.org/abs/2606.17835).
+Our first upcoming meeting is planned on **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting about (lack of) compensation for tonal context in Wav2Vec2. <br> Related reading: 
+> Kirby, J., Krehan, I., Gubian, M. (2026). [Perceptual compensation for tonal context in self-supervised speech models](https://arxiv.org/abs/2606.17835). Proc. Interspeech.
 
 See an archive of our past meetings below.
 
@@ -25,6 +20,13 @@ See an archive of our past meetings below.
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>Sept 17th</b><br>Invited talk</td>
+    <td>
+    <a href="http://www.tuckute.com/">Greta Tuckute</a> (Harvard) & <a href="https://klemenkotar.github.io/">Klemen Kotar</a> (Stanford)<br>
+    <i>Learning Language by Listening: A Computational Learnability Account</i> [<a href="https://openreview.net/forum?id=Z4VJEMX8pS">CCN abstract</a> + <a href="http://doi.org/10.21437/Interspeech.2025-2044">Interspeech paper</a>]
+    </td>
   </tr>
   <tr>
     <td><b>Aug 13th</b><br>Invited talk</td>
@@ -229,12 +231,6 @@ The starting point is a large scale Persian speech corpus built from long form a
     <td><b>Nov 16th</b><br>Journal club</td>
     <td>
     Gaskell, M. G., & Marslen-Wilson, W. D. (2001). <a href="https://doi.org/10.1006/jmla.2000.2741">Lexical ambiguity resolution and spoken word recognition: Bridging the gap</a>. <i>Journal of Memory and Language</i>.
-    </td>
-  </tr>
-  <tr>
-    <td><b>Oct 19th</b><br>Journal club</td>
-    <td>
-    Anderson, A. J., Davis, C., & Lalor, E. C. (2023). <a href="https://doi.org/10.1101/2023.09.24.559177">Context and Attention Shape Electrophysiological Correlates of Speech-to-Language Transformation</a>. <i>bioRxiv</i>.
     </td>
   </tr>
   <tr>
