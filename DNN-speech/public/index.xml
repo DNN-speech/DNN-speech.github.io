@@ -15,13 +15,14 @@
       <link>http://localhost:1313/reading-group/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mariannedhk@gmail.com (Marianne de Heer Kloots)</author>
       <guid>http://localhost:1313/reading-group/</guid>
-      <description>&lt;p&gt;We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet &lt;strong&gt;every third Thursday of the month&lt;/strong&gt; at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with our physical meeting location at &lt;a href=&#34;https://lab42.uva.nl/&#34;&gt;LAB42&lt;/a&gt; (University of Amsterdam), but many participants joining virtually.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with our physical meeting location at <a href="https://lab42.uva.nl/">LAB42</a> (University of Amsterdam), but many participants joining virtually.</p>
+      <description>&lt;p&gt;We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet &lt;strong&gt;every third Thursday of the month&lt;/strong&gt; at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with many participants joining virtually. Our physical meeting location was previously at &lt;a href=&#34;https://lab42.uva.nl/&#34;&gt;LAB42&lt;/a&gt; (Amsterdam); &lt;strong&gt;from December 2026 onwards we are in the &lt;a href=&#34;https://www.mpi.nl/&#34;&gt;MPI for Psycholinguistics&lt;/a&gt;&lt;/strong&gt; (Nijmegen)!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet <strong>every third Thursday of the month</strong> at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with many participants joining virtually. Our physical meeting location was previously at <a href="https://lab42.uva.nl/">LAB42</a> (Amsterdam); <strong>from December 2026 onwards we are in the <a href="https://www.mpi.nl/">MPI for Psycholinguistics</a></strong> (Nijmegen)!</p>
 <p>Anyone with an interest in the topic is very welcome to join our meetings! Contact <a href="https://mdhk.net/">Marianne</a> or <a href="https://groups.google.com/g/dnn-speech">request to join our mailing list</a> if you&rsquo;d like to participate (please include a message describing who you are, if it might not be obvious from your e-mail address).</p>
 <h4 id="next-meetings">Next meeting(s)</h4>
-<p>Our first upcoming meeting is planned on <strong>October 15th</strong>, with <a href="https://github.com/uasolo">Michele Gubian</a> presenting about (lack of) compensation for tonal context in Wav2Vec2. <br> Related reading:</p>
+<p>We have no reading group meeting scheduled for November, but on Tuesday November 19th we will be attending the <a href="https://DNN-speech.github.io/SOS-workshop/">SOS workshop on Communication Technologies for Social Good</a>!</p>
+<p>Our next reading group meeting is planned on <strong>December 10th</strong>, with <a href="https://www.linkedin.com/in/robin-huo/">Robin Huo</a> presenting about the word information encoded by self-supervised speech models. <br> Related reading:</p>
 <blockquote>
-<p>Kirby, J., Krehan, I., Gubian, M. (2026). <a href="https://arxiv.org/abs/2606.17835">Perceptual compensation for tonal context in self-supervised speech models</a>. Proc. Interspeech.</p>
+<p>Huo., R. &amp; Dunbar, E. (2026). <a href="https://www.isca-archive.org/interspeech_2026/huo26_interspeech.html">Do speech foundation models really learn words?</a>. Proc. Interspeech.</p>
 </blockquote>
 <p>See an archive of our past meetings below.</p>
 <h4 id="archive">Archive</h4>
@@ -32,6 +33,13 @@
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>Oct 15th</b><br>Invited talk</td>
+    <td>
+    <a href="https://github.com/uasolo">Michele Gubian</a> (LMU, Munich)<br>
+    <i>Perceptual compensation for tonal context in self-supervised speech models</i> [<a href="https://www.isca-archive.org/interspeech_2026/kirby26_interspeech.html">Interspeech paper</a>]
+    </td>
   </tr>
   <tr>
     <td><b>Sept 17th</b><br>Invited talk</td>

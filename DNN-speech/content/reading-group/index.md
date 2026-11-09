@@ -2,13 +2,15 @@
 title: "(D)NN-speech reading group"
 ---
 
-We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with our physical meeting location at [LAB42](https://lab42.uva.nl/) (University of Amsterdam), but many participants joining virtually.
+We are a reading group meeting regularly to discuss papers on speech-based deep learning models and their use in modelling human speech processing and acquisition. We currently meet **every third Thursday of the month** at 3pm Amsterdam time, for informal journal club discussions or invited talks within the broad theme of human and automatic speech processing. Our meetings are hybrid, with many participants joining virtually. Our physical meeting location was previously at [LAB42](https://lab42.uva.nl/) (Amsterdam); **from December 2026 onwards we are in the [MPI for Psycholinguistics](https://www.mpi.nl/)** (Nijmegen)!
 
 Anyone with an interest in the topic is very welcome to join our meetings! Contact [Marianne](https://mdhk.net/) or [request to join our mailing list](https://groups.google.com/g/dnn-speech) if you'd like to participate (please include a message describing who you are, if it might not be obvious from your e-mail address).
 
 #### Next meeting(s)
-Our first upcoming meeting is planned on **October 15th**, with [Michele Gubian](https://github.com/uasolo) presenting about (lack of) compensation for tonal context in Wav2Vec2. <br> Related reading: 
-> Kirby, J., Krehan, I., Gubian, M. (2026). [Perceptual compensation for tonal context in self-supervised speech models](https://arxiv.org/abs/2606.17835). Proc. Interspeech.
+We have no reading group meeting scheduled for November, but on Tuesday November 19th we will be attending the [SOS workshop on Communication Technologies for Social Good](https://DNN-speech.github.io/SOS-workshop/)!
+
+Our next reading group meeting is planned on **December 10th**, with [Robin Huo](https://www.linkedin.com/in/robin-huo/) presenting about the word information encoded by self-supervised speech models. <br> Related reading: 
+> Huo., R. & Dunbar, E. (2026). [Do speech foundation models really learn words?](https://www.isca-archive.org/interspeech_2026/huo26_interspeech.html). Proc. Interspeech.
 
 See an archive of our past meetings below.
 
@@ -20,6 +22,13 @@ See an archive of our past meetings below.
 <table border="0">
   <tr  class="header">
       <th colspan="2"><span>▾</span> 2026</th>
+  </tr>
+  <tr>
+    <td><b>Oct 15th</b><br>Invited talk</td>
+    <td>
+    <a href="https://github.com/uasolo">Michele Gubian</a> (LMU, Munich)<br>
+    <i>Perceptual compensation for tonal context in self-supervised speech models</i> [<a href="https://www.isca-archive.org/interspeech_2026/kirby26_interspeech.html">Interspeech paper</a>]
+    </td>
   </tr>
   <tr>
     <td><b>Sept 17th</b><br>Invited talk</td>
